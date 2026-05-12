@@ -31,7 +31,7 @@
                         <button class="popup-close" onclick="closePatchPopup(event)">Close</button>
                         <div class="centered">
                             <h1>Patch Notes - v1.0 (Latest)</h1>
-                            <pre>INITIAL C0MMIT</pre>
+                            <pre>INITIAL RELEASE</pre>
                         
                         </div>
                     </div>`;
